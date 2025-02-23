@@ -1,5 +1,6 @@
 # NAME: BiliBili
 DOMAIN-SUFFIX,app.bilibili.com
+DOMAIN-SUFFIX,api.live.bilibili.com
 IP-CIDR,106.75.74.76/32,no-resolve
 IP-CIDR,111.206.25.147/32,no-resolve
 IP-CIDR,119.3.238.64/32,no-resolve
