@@ -1,5 +1,6 @@
 # NAME: BiliBili
 DOMAIN-SUFFIX,app.bilibili.com
+DOMAIN-SUFFIX,upos-sz-mirrorcos.bilivideo.com
 DOMAIN-SUFFIX,upos-sz-mirrorawsov.bilivideo.com
 DOMAIN-SUFFIX,upos-sz-mirrorcosov.bilivideo.com
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
